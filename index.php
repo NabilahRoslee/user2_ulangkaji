@@ -1,5 +1,8 @@
+<?php
+	$title = "Bismillah";
+?>
 <html><head><title>
 <?php
-echo $title;
+	echo $title;
 ?>
 </title></head>
